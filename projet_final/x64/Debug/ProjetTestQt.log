@@ -1,0 +1,13 @@
+﻿  moc Calc.hpp
+  moc CalcWindow.hpp
+  bibliotheque_cours.cpp
+  verification_allocation.cpp
+  Calc.cpp
+  CalcWindow.cpp
+  gtest-all.cc
+  main.cpp
+  TestCalc.cpp
+  moc_Calc.cpp
+  moc_CalcWindow.cpp
+     Création de la bibliothèque C:\Thomas\c++\projet_final\x64\Debug\ProjetTestQt.lib et de l'objet C:\Thomas\c++\projet_final\x64\Debug\ProjetTestQt.exp
+  ProjetTestQt.vcxproj -> C:\Thomas\c++\projet_final\x64\Debug\ProjetTestQt.exe
